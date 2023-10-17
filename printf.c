@@ -1,5 +1,10 @@
 #include "main.h"
 #define BUFF_SIZE 1024
+/**
+ * _printf - it is aprintf
+ * @format: it is format
+ * Return: it is return
+ */
 int _printf(const char *format, ...)
 {
 va_list args;
